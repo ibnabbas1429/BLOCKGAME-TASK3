@@ -10,3 +10,4 @@ meta data
 ERC20TOKEN address: 0xF21D8c6eBbA61AbCA50D2CF4B9dE463F46153176
 
 ERC721TOKEN address:0xd452266e28f9192F3e1c4721851a45eb0C3fd29d
+metadata on ipfs ipfs.io/ipfs/bafkreicmc6ccl6pg62d5g6xaqzokd3mizp3mo2luyydu4cwwntgszepnzu
