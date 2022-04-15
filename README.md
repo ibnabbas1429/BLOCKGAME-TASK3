@@ -1,4 +1,4 @@
-# ERC20Token
+#blockgametaskThree
 This is an ERC token
 meta data
 {
